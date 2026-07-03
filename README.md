@@ -138,7 +138,7 @@ I'm **Mostafa Kamel**, a **Frontend Developer & Software Engineer** who believes
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=mostafa-kameel&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/mostafa-kameel/mostafa-kameel/main/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 
