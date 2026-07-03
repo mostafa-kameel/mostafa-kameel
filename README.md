@@ -126,10 +126,7 @@ I'm **Mostafa Kamel**, a **Frontend Developer & Software Engineer** who believes
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mostafa-kameel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-kameel&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-
+  <img src="https://raw.githubusercontent.com/mostafa-kameel/mostafa-kameel/main/stats.svg" alt="GitHub Stats"/>
 </div>
 
 <br/>
