@@ -34,15 +34,3 @@
 * **Visual Studio Code**: المحرر الأساسي لكتابة وتعديل الأكواد وإدارة بيئتك البرمجية الخاصة.
 * **Figma**: أداة التصميم المساعد لمعاينة الواجهات واستخراج تفاصيل التصميم بدقة (مثل الألوان والصور) لتطبيقها كوداً.
 * **Git & GitHub**: مهارة إدارة إصدارات الملفات البرمجية، ورفع المستودعات (*Repositories*) العامة، ونشر المواقع عبر استضافة *GitHub Pages*.
-
----
-
-## 📊 إحصائيات GitHub الشخصية (My GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=mostafa-kameel&show_icons=true&theme=tokyonight&locale=en" alt="Mostafa's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=mostafa-kameel&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
-</p>
