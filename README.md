@@ -40,9 +40,9 @@
 ## 📊 إحصائيات GitHub الشخصية (My GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-kameel&show_icons=true&theme=tokyonight&locale=en" alt="Mostafa's GitHub Stats" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=mostafa-kameel&show_icons=true&theme=tokyonight&locale=en" alt="Mostafa's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-kameel&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=mostafa-kameel&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
 </p>
