@@ -1,22 +1,21 @@
 name: Generate Trophy
 on:
   schedule:
-    - cron: "0 0 * * *"   # يحدّث كل يوم تلقائيًا
-  workflow_dispatch:        # يسمحلك تشغّله يدويًا من تبويب Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [ main ]
-
 jobs:
   generate-trophy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate trophy image
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: mostafa-kameel
-          output_path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit trophy
         run: |
           git config --local user.email "action@github.com"
