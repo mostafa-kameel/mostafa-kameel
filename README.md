@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mostafa Kamel 👋
+### Frontend Developer & Software Engineer
 
-<!--
-**mostafa-kameel/mostafa-kameel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 التأسيس الهندسي وحل المشكلات (Problem Solving & Algorithms)
+بناءً على مسار البشمهندس محمد أبو هدهود، فقد أتممت دراسة:
+* **Foundations Level 1**: أساسيات المنطق البرمجي وتفكيك المشكلات.
+* **Algorithms Level 1 & Level 2 & Level 3**: التدرج في التفكير الخوارزمي حتى المستوى الثالث لتجهيز عقليتك كمهندس برمجيات حقيقي.
+* **Advanced Solutions for Algorithms Level 1**: حلول متقدمة وتفكير أعمق للمستوى الأول.
+* **C++ (Level 1 & Level 2)**: إتقان مفاهيم لغة C++ القوية وفهم كيفية تعامل الكود مع الذاكرة وكواليس الحواسيب.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 تقنيات تطوير الواجهات (Frontend Web Development)
+* **HTML5 & CSS3**: بناء وتصميم الهيكل الأساسي لصفحات الويب باحترافية.
+* **JavaScript (ES6+)**: إتقان لغة التفاعل الأساسية وفهم مفاهيمها المتقدمة مثل (*DOM Manipulation, BOM, Closures, typeof null, Boolean logic*).
+* **التعامل مع البيانات والـ APIs**: القدرة على جلب البيانات والتعامل مع البرمجيات الخارجية باستخدام (*Fetch API, JSON, REST API Basics, API Integration*).
+* **Bootstrap 5**: تصميم واجهات ويب مستجيبة (*Responsive Web Design*) تتوافق مع جميع الشاشات والمقاسات.
+
+---
+
+## 🛠️ الأدوات وبيئة العمل (Tools)
+* **Visual Studio Code**: المحرر الأساسي لكتابة وتعديل الأكواد وإدارة بيئتك البرمجية الخاصة.
+* **Figma**: أداة التصميم المساعد لمعاينة الواجهات واستخراج تفاصيل التصميم بدقة (مثل الألوان والصور) لتطبيقها كوداً.
+* **Git & GitHub**: مهارة إدارة إصدارات الملفات البرمجية، ورفع المستودعات (*Repositories*) العامة، ونشر المواقع عبر استضافة *GitHub Pages*.
