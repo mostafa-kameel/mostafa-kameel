@@ -64,6 +64,8 @@ I'm **Mostafa Kamel**, a **Frontend Developer & Software Engineer** who believes
 | **Advanced Solutions — Algorithms Level 1** | Deep-Dive Problem Solving Patterns | ✔️ Completed |
 | **C++ — Level 1** | Memory Management & Computer Internals | ✔️ Completed |
 | **C++ — Level 2** | Advanced Memory & Systems Concepts | ✔️ Completed |
+| **HTML — Deep Dive** | Semantic Web, DOM Structure & Rendering | ✔️ Completed |
+| **CSS — Foundations Deep Dive** | Layouts, Responsiveness & Advanced Styling | ✔️ Completed |
 
 <div align="center">
 <i>💡 This foundation in logic, algorithms, and low-level memory management is what shapes how I approach every frontend problem — with structure, efficiency, and precision.</i>
